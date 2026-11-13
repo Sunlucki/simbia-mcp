@@ -47,7 +47,7 @@ claude plugin marketplace add Sunlucki/simbia-mcp
 claude plugin install simbia@simbia
 ```
 
-Then run `/mcp` in a session, pick `simbia` and authenticate. The plugin also adds a skill with the rules for working in SIMBIA.
+Then run `/mcp` in a session, pick `plugin:simbia:simbia` and authenticate. The plugin also adds a skill with the rules for working in SIMBIA.
 
 Without the plugin, the server alone:
 
