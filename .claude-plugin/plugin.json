@@ -1,0 +1,13 @@
+{
+  "name": "simbia",
+  "displayName": "SIMBIA",
+  "version": "1.0.0",
+  "description": "Connect your AI agent to SIMBIA: read CRM, books, bank and mail, and propose changes that a person approves.",
+  "author": {
+    "name": "SIMBIA sp. z o.o.",
+    "url": "https://simbia.eu"
+  },
+  "homepage": "https://simbia.eu",
+  "repository": "https://github.com/Sunlucki/simbia-mcp",
+  "keywords": ["simbia", "crm", "accounting", "invoices", "mcp"]
+}

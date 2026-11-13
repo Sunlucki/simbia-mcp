@@ -1,0 +1,14 @@
+{
+  "name": "simbia",
+  "description": "SIMBIA for AI agents",
+  "owner": {
+    "name": "SIMBIA sp. z o.o."
+  },
+  "plugins": [
+    {
+      "name": "simbia",
+      "source": "./",
+      "description": "Connect your AI agent to SIMBIA: read CRM, books, bank and mail, and propose changes that a person approves."
+    }
+  ]
+}

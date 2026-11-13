@@ -1,0 +1,11 @@
+{
+  "name": "simbia",
+  "version": "1.0.0",
+  "description": "Connect Gemini CLI to SIMBIA: read CRM, books, bank and mail, and propose changes that a person approves.",
+  "mcpServers": {
+    "simbia": {
+      "httpUrl": "https://crm.simbia.eu/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

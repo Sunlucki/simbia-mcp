@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "simbia": {
+      "type": "http",
+      "url": "https://crm.simbia.eu/api/mcp"
+    }
+  }
+}
